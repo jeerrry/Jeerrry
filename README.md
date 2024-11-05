@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img height="512" src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif"  />
+</div>
+
+###
+
 <p align="left">👨‍💻 Principal Software Engineer | Backend Systems & Cloud Architecture Expert I am a dedicated backend engineer with a proven record of building scalable and robust distributed systems. My expertise lies in creating fault-tolerant services and improving system performance. A lifelong learner, I excel in mastering new technologies and methodologies efficiently to drive innovation</p>
 
 ###
