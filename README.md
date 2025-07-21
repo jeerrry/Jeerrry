@@ -4,11 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B35&background=FFFFFF00&center=true&vCenter=true&width=940&lines=🚀+Principal+Software+Engineer;⚡+Backend+Systems+Architect;☁️+Cloud+Infrastructure+Expert;🔧+Distributed+Systems+Builder;📊+Performance+Optimization+Guru;🌐+Scalability+Engineer" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
 
 </div>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ## 🔥 About Me
 
@@ -88,22 +86,22 @@ I'm a **Principal Software Engineer** at **Revolving Games** with **8+ years** o
 <table>
 <tr>
 <td align="center" width="25%">
-💰
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" />
 <h3>Revenue Impact</h3>
 <p>Built systems generating <strong>$1.4M revenue</strong> serving 120K+ users</p>
 </td>
 <td align="center" width="25%">
-⚡
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="60" />
 <h3>Performance</h3>
 <p>Achieved <strong>30% query improvement</strong> & 40% faster response times</p>
 </td>
 <td align="center" width="25%">
-☁️
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60" />
 <h3>Infrastructure</h3>
 <p>Reduced costs by <strong>60%</strong> with Kubernetes & Terraform</p>
 </td>
 <td align="center" width="25%">
-🛡️
+<img src="https://user-images.githubusercontent.com/74038190/212284113-5b55c60b-e4f0-4027-a983-e8b33c4319c3.gif" width="60" />
 <h3>Reliability</h3>
 <p>Architected systems with <strong>99.95% availability</strong></p>
 </td>
@@ -183,6 +181,6 @@ I'm always interested in discussing **system architecture challenges**, **perfor
 
 <img src="https://raw.githubusercontent.com/jeerrry/jeerrry/output/snake.svg" alt="Snake animation" />
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
