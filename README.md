@@ -12,16 +12,16 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> About Me
 
-I'm a **Principal Software Engineer** with deep expertise in **backend systems** and **cloud architecture**. I specialize in designing and building **scalable, fault-tolerant distributed systems** that handle millions of requests with optimal performance.
+I'm a **Principal Software Engineer** at **Revolving Games** with **8+ years** of experience building **high-scale backend systems**. Currently leading development of APIs serving **120K+ users** and generating **$1.4M revenue**, while architecting systems that handle **44.2M requests** in just 10 days.
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> What I Do:
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20"> **System Architecture**: Design high-availability, scalable backend systems  
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="20"> **Performance Engineering**: Optimize systems for maximum throughput and minimal latency  
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="20"> **Distributed Systems**: Build resilient microservices and event-driven architectures  
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="20"> **Cloud Infrastructure**: Architect and deploy on AWS, GCP, and hybrid environments  
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae7-de2a-4ca8-b6a6-59678d96f906.gif" width="20"> **Data Engineering**: Design efficient data pipelines and storage solutions  
-<img src="https://user-images.githubusercontent.com/74038190/212284113-5b55c60b-e4f0-4027-a983-e8b33c4319c3.gif" width="20"> **DevOps & SRE**: Implement CI/CD, monitoring, and infrastructure as code
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20"> **High-Scale Systems**: Built real-time reward systems processing **10K+ events/sec** with millisecond latency  
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="20"> **Performance Engineering**: Improved query throughput by **30%** and response times by **40%**  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="20"> **Distributed Systems**: Architected fault-tolerant services with **99.95% availability**  
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="20"> **Cloud Infrastructure**: Reduced infrastructure costs by **60%** using Kubernetes and Terraform  
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae7-de2a-4ca8-b6a6-59678d96f906.gif" width="20"> **Data Engineering**: Built cross-cloud BigQuery pipelines for cost-efficient analytics  
+<img src="https://user-images.githubusercontent.com/74038190/212284113-5b55c60b-e4f0-4027-a983-e8b33c4319c3.gif" width="20"> **Security & Compliance**: Implemented OAuth2, JWT, RBAC with data sanitization layers
 
 <div align="center">
 
@@ -34,21 +34,21 @@ I'm a **Principal Software Engineer** with deep expertise in **backend systems**
 <td valign="top" width="50%">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> Backend & Systems
-- 🚀 **Languages**: Go, Java, Python, C++, C#
-- ⚡ **Frameworks**: Spring Boot, .NET Core, Node.js
-- 🗄️ **Databases**: PostgreSQL, MySQL, Redis, Apache Kafka
-- 📨 **Message Queues**: RabbitMQ, Apache Pulsar
-- 💾 **Caching**: Redis, Memcached, Hazelcast
+- 🚀 **Languages**: Go, Python, C#, Java, Node.js
+- ⚡ **APIs**: REST, gRPC, GraphQL
+- 🗄️ **Databases**: MySQL, PostgreSQL, NoSQL
+- 📨 **Real-Time**: Event-Driven Architecture, Microservices
+- 💾 **Caching**: Redis, Memcached optimization
 
 </td>
 <td valign="top" width="50%">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="20"> Cloud & Infrastructure  
-- ☁️ **Cloud Platforms**: AWS, Google Cloud, Azure
-- 🐳 **Containers**: Docker, Kubernetes, Helm
-- 🏗️ **Infrastructure**: Terraform, Ansible, CloudFormation
-- 📊 **Monitoring**: Prometheus, Grafana, ELK Stack
-- 🔄 **CI/CD**: Jenkins, GitLab CI, GitHub Actions
+### <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="20"> DevOps & Cloud  
+- ☁️ **Cloud Platforms**: AWS, GCP, Multi-Cloud
+- 🐳 **Orchestration**: Docker, Kubernetes, Load Balancing
+- 🏗️ **Infrastructure**: Terraform, CI/CD Pipelines
+- 📊 **Monitoring**: Performance Profiling, Real-Time Analytics
+- 🔄 **Automation**: Jenkins, TeamCity, Cost Optimization
 
 </td>
 </tr>
@@ -77,10 +77,10 @@ I'm a **Principal Software Engineer** with deep expertise in **backend systems**
 
 ```yaml
 🎯 Engineering Philosophy:
-  💎 Code Quality: "Write code that reads like well-written prose"
-  🚀 Scalability: "Design for 10x, build for today"  
-  ⚡ Performance: "Optimize for the critical path, measure everything"
-  🛡️ Reliability: "Build systems that recover gracefully"
+  💎 Scale: "Built systems handling 44.2M requests in 10 days"
+  🚀 Performance: "Real-time processing with 10K+ events/sec, millisecond latency"  
+  ⚡ Efficiency: "Cost optimization - 60% infrastructure reduction"
+  🛡️ Reliability: "99.95% uptime with fault-tolerant architecture"
 ```
 
 </div>
@@ -89,23 +89,23 @@ I'm a **Principal Software Engineer** with deep expertise in **backend systems**
 <tr>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" />
-<h3>System Design</h3>
-<p>Architected distributed systems serving <strong>10M+ requests/day</strong></p>
+<h3>Revenue Impact</h3>
+<p>Built systems generating <strong>$1.4M revenue</strong> serving 120K+ users</p>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="60" />
 <h3>Performance</h3>
-<p>Achieved <strong>80% latency reduction</strong> through caching strategies</p>
+<p>Achieved <strong>30% query improvement</strong> & 40% faster response times</p>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60" />
-<h3>Cloud Migration</h3>
-<p>Led deployments saving <strong>40% costs</strong></p>
+<h3>Infrastructure</h3>
+<p>Reduced costs by <strong>60%</strong> with Kubernetes & Terraform</p>
 </td>
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212284113-5b55c60b-e4f0-4027-a983-e8b33c4319c3.gif" width="60" />
-<h3>Leadership</h3>
-<p>Mentored engineers & established <strong>best practices</strong></p>
+<h3>Reliability</h3>
+<p>Architected systems with <strong>99.95% availability</strong></p>
 </td>
 </tr>
 </table>
@@ -121,6 +121,31 @@ I'm a **Principal Software Engineer** with deep expertise in **backend systems**
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,nginx,grafana,prometheus&theme=dark" />
 
 </div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> Professional Journey
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" />
+<h3>🎮 Revolving Games (Caramel Tech)</h3>
+<p><strong>Principal Software Engineer</strong><br/>Dec 2019 - Present<br/>🌍 California (Remote)</p>
+<p>Leading C#/.NET APIs serving 120K+ users, generating $1.4M revenue. Built real-time systems processing 10K+ events/sec.</p>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80" />
+<h3>💼 Binex Solutions</h3>
+<p><strong>Software Engineer</strong><br/>July 2017 - Nov 2019<br/>🏢 Islamabad</p>
+<p>Built fault-tolerant systems with 99.95% availability. Integrated OAuth2, JWT, RBAC with 40% performance improvements.</p>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284113-5b55c60b-e4f0-4027-a983-e8b33c4319c3.gif" width="80" />
+<h3>⚡ For Loop Technologies</h3>
+<p><strong>Associate Software Engineer</strong><br/>July 2015 - July 2017<br/>🏢 Lahore</p>
+<p>Built Android Smart TV controllers and performed deep profiling for performance-critical production systems.</p>
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
@@ -145,8 +170,8 @@ I'm always interested in discussing **system architecture challenges**, **perfor
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/uzairtariq)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/jeerrry)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B35)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:s.uzairtariq@gmail.com)
+[![Location](https://img.shields.io/badge/Pakistan-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=FF6B35)](https://goo.gl/maps/pakistan)
 
 </div>
 
